@@ -47,7 +47,7 @@ public class BaseClass {
 	{
 		String URL = fUtil.readDataFromPropertyFile("url");
 		
-		driver = new EdgeDriver();
+		driver = new FirefoxDriver();
 		
 		/*For cross browser execution*/
 		
