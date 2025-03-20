@@ -45,6 +45,8 @@ public void tc_002_AddLowestPriceproductToCartTest() throws IOException
 	
 	Assert.assertEquals(productInCart,productAdded );
 	System.out.println(PRODUCTNAME);
+	
+	System.out.println("PREETI");
 
 	
 	}
